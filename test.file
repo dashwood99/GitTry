@@ -1,2 +1,4 @@
 #hello
 #it's okay,it's a test
+# git push -u origin "master"
+# git config --list
